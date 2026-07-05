@@ -177,7 +177,3 @@ for r in results:
 - Add a citation graph / "papers similar to this one" feature
 
 ---
-
-## 🙋 Author
-
-Built by **Singaram Hemalatha** — Coding Blocks Internship, Project 2.
